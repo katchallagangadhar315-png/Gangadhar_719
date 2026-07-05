@@ -1,0 +1,6 @@
+{
+  "name": "Cybersecurity Scanner",
+  "description": "An educational cybersecurity scanner simulating vulnerabilities and generating AI-powered analyses of security gaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
